@@ -1,0 +1,7 @@
+main: de.rexlmanu.system.plugin.SystemPlugin
+name: SystemPlugin
+version: 1.0
+author: Emmanuel Lampe
+depend:
+  - CloudAPI
+  - LabyModAPI
